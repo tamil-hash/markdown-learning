@@ -207,6 +207,16 @@ To create a table add bar between the headers and data and to align data after t
 | left  | right | center  |
 | tamil |    25 |   no    |
 
+## Todo list
+
+To create todo list for tracking progress in gihub add a minus(-) space and add square brackets with space inbetween and the list item name.
+The empty space in between the square brackets denotes that the list item is completed.
+The 'x' in between the square brackets denotes that the list item is completed.
+
+-  [x] Completed Todo list 1
+-  [ ] Todo list 2
+-  [ ] Todo list 3
+
 ## HTML
 
 We can also add HTML elements tags directly in the MD and also style them inside the style tag.
